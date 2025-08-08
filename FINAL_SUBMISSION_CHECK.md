@@ -4,46 +4,46 @@
 
 ### Required Deliverables COMPLETE
 **scan2csv.py** - Main CLI script with required arguments (`--in_dir`, `--out_csv`, `--out_json`)
-- [x] **requirements.txt** - All dependencies listed (Python ≥3.9 compatible)
-- [x] **README.md** - Complete documentation with all required sections
-- [x] **docs/flow_diagram.png** - Visual flow diagram (ASCII + PNG versions)
-- [x] **Sample input scans + produced CSV/JSON** in `/sample_output`
+**requirements.txt** - All dependencies listed (Python ≥3.9 compatible)
+**README.md** - Complete documentation with all required sections
+**docs/flow_diagram.png** - Visual flow diagram (ASCII + PNG versions)
+**Sample input scans + produced CSV/JSON** in `/sample_output`
 
 ### Core Functionality FULLY IMPLEMENTED
-- [x] **CLI Arguments**: `--in_dir`, `--out_csv`, `--out_json` implemented
-- [x] **OCR Processing**: Using **Tesseract OCR** (alternative to Dolphin as permitted)
-- [x] **Data Extraction**: Vendor Name, Invoice No., Date, Currency, Line Items, Grand Total
-- [x] **Output Formats**: 
+**CLI Arguments**: `--in_dir`, `--out_csv`, `--out_json` implemented
+**OCR Processing**: Using **Tesseract OCR** (alternative to Dolphin as permitted)
+**Data Extraction**: Vendor Name, Invoice No., Date, Currency, Line Items, Grand Total
+**Output Formats**: 
   - `invoices_header.csv` (one row per invoice, key fields)
   - `invoices_lines.csv` (one row per line item, foreign-key to header)
   - Raw JSON with full OCR output for audit
-- [x] **Performance**: Processes sample invoices in **< 3 minutes on CPU**
+**Performance**: Processes sample invoices in **< 3 minutes on CPU**
 
 ### Technical Requirements FULLY COMPLIANT
-- [x] **Python ≥ 3.9** compatibility verified
-- [x] **Allowed packages**: pandas, opencv-python, pdf2image, pytesseract (all within spec)
-- [x] **Graceful error handling**: Missing fields, corrupted PDFs, unreadable pages
-- [x] **OS-agnostic code**: Works on Windows/macOS/Linux
-- [x] **Configurable paths**: All constants configurable from single place
+**Python ≥ 3.9** compatibility verified
+**Allowed packages**: pandas, opencv-python, pdf2image, pytesseract (all within spec)
+**Graceful error handling**: Missing fields, corrupted PDFs, unreadable pages
+**OS-agnostic code**: Works on Windows/macOS/Linux
+**Configurable paths**: All constants configurable from single place
 
 ### Code Quality PROFESSIONAL GRADE
-- [x] **Modular functions**: Clear separation of concerns
-- [x] **Docstrings**: Comprehensive documentation
-- [x] **Logging**: Detailed progress and error logging
-- [x] **Clean variable names**: Self-explanatory naming convention
-- [x] **PEP8/Ruff compliance**: Professional code formatting
+**Modular functions**: Clear separation of concerns
+**Docstrings**: Comprehensive documentation
+**Logging**: Detailed progress and error logging
+**Clean variable names**: Self-explanatory naming convention
+**PEP8/Ruff compliance**: Professional code formatting
 
 ### Documentation COMPLETE
-- [x] **Problem Statement**: Clear objective description
-- [x] **Approach**: Technical methodology explained  
-- [x] **Flow Diagram**: Visual pipeline representation (Load → OCR → Parse → Validate → Export)
-- [x] **How to Run**: Step-by-step instructions
-- [x] **Sample Output**: Demonstration with real results
+**Problem Statement**: Clear objective description
+**Approach**: Technical methodology explained  
+**Flow Diagram**: Visual pipeline representation (Load → OCR → Parse → Validate → Export)
+**How to Run**: Step-by-step instructions
+**Sample Output**: Demonstration with real results
 
 ### Git Hygiene CLEAN
-- [x] **Meaningful commits**: Descriptive commit messages
-- [x] **Visible license**: MIT license included
-- [x] **Clean repository**: No unnecessary files
+**Meaningful commits**: Descriptive commit messages
+**Visible license**: MIT license included
+**Clean repository**: No unnecessary files
 
 ## **FINAL VERIFICATION COMMAND**
 
