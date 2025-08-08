@@ -3,7 +3,7 @@
 ## **ASSIGNMENT COMPLIANCE - ALL REQUIREMENTS MET**
 
 ### Required Deliverables COMPLETE
-- [x] **scan2csv.py** - Main CLI script with required arguments (`--in_dir`, `--out_csv`, `--out_json`)
+**scan2csv.py** - Main CLI script with required arguments (`--in_dir`, `--out_csv`, `--out_json`)
 - [x] **requirements.txt** - All dependencies listed (Python ≥3.9 compatible)
 - [x] **README.md** - Complete documentation with all required sections
 - [x] **docs/flow_diagram.png** - Visual flow diagram (ASCII + PNG versions)
