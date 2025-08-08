@@ -1,0 +1,4 @@
+filename,vendor_name,invoice_number,invoice_date,currency,grand_total,processing_timestamp
+invoice_001.txt,Acme Consulting Llc,INV-2024-001,January 15 2024,USD,6510.0,2024-01-15T10:30:00
+invoice_002.txt,Tech Supplies Inc,TS-2024-0042,March 10 2024,USD,3147.05,2024-01-15T10:30:01
+invoice_003.txt,Global Solutions Group,GSG-2024-Q1-087,February 28 2024,USD,11500.0,2024-01-15T10:30:02

@@ -1,0 +1,67 @@
+[
+  {
+    "filename": "20200727102729542.pdf",
+    "vendor_name": "First Pacific Company Limited",
+    "invoice_number": "UNKNOWN_INVOICE_NO",
+    "invoice_date": "UNKNOWN_DATE",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "First Pacifie Company Limited USD",
+        "quantity": 1,
+        "unit_price": 5000000.0,
+        "amount": 5000000.0
+      }
+    ],
+    "grand_total": 5000000.0,
+    "raw_ocr_text": "27/a7/ 2626 14:36 +862-2877-O767 FIRST PAGIFIG PAGE 1/81\nTo: NATIMIS pate: 28-Jul-2020\nHong Kong Branch\nREMITTANCE APPLICATION\n| ,\nbear Sir, First Pacific Company Limited\nWe hereby request you ta affect the-tallowing remittance subject to the conditions overleaf, ta. which IWe have read, undorsteod and agraed.\none eases Speen a\nReniliter / Applicant (Field 50) Currariay and Amount\nFirst Pacifie Company Limited USD5,000,000.00\nAddress ABA No. / Swiit Address\nName of Benefielary Bank Field 87} , Account No, of Bendticiiry Bank\nThe Hongkong and Shanghai Banking Corporation Limited | Bank Code: 004\n; Address of Beneficiary Bank UID No. / Swift Addresa\nHSBCHKHHHKH\nAccount Nia, of Beneficiary\n848-250718-274\nName of Beneficiary (Field 59) ,\nFirst Pacific Company Limlted\nAddrese of Beneficiary\n24/F, TWO EXCHANGE SQUARE, 8 CONNAUGHT PLAGE, GENTRAL, HONG KONG\nMessage or Instructions to Beneficiary (Field 70)\nTransfer to own account ;\nIngattlement, pleasa jxme fo\nly] sebit my/our Account No, 2077634199 eouto fC\n[] reepive cheque-Na, *Terarist DB checked\n[] other (please specify) “With Fax Indemnity Y/N :\nFor and on behalf of\nFIRST PAGIFIG COMPANY LIMITED\nsemana eer %)\nAuthorized Signatura(s) with Company Chop {if necceagary)\nTRFA7-08-44\nPaytt20/07031",
+    "processing_timestamp": "2025-08-08T13:51:49.894123"
+  },
+  {
+    "filename": "20200916101401473.pdf",
+    "vendor_name": "First Pacific Company Limited",
+    "invoice_number": "UNKNOWN_INVOICE_NO",
+    "invoice_date": "UNKNOWN_DATE",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "First Pacific Company Limited USD",
+        "quantity": 1,
+        "unit_price": 16188563.19,
+        "amount": 16188563.19
+      }
+    ],
+    "grand_total": 0.0,
+    "raw_ocr_text": "16. Sep. 2020 10:11 FPG HK +852 28459245 No. 0572 PF. 1/1\nTo; NATIXIS pate: 16-Sep-2020\nHong Kong Branch\nREMITTANCE APPLICATION\nBank Ref. Na.\n; First Pacific Company Limited\nDear Sirs,\nVWe hereby request you Ia effect the fallawing remittance subject to Ihe conditions overleat, to which Wa hava read, uriderstond and agreed.\nRemilter / Applinsnt (Fleld 60) Currenoy and Amount\nFirst Pacific Company Limited USD16,188,563.19 in full\nName of Beneficiary Gank (Fiald 57) Account No. of Beneficiary Bank\nWells Fargo Bank, N.A.\nAddress of Beneficiary Bank UID No. / Swift Addreas\nNew York\na PNBPUS3NNYC\nArcount No. of Beneficiary\n2000191132897\n| Name of Beneticlary (Fleld 59)\nChina Banking Corporation\nAddress of Beneflolary\n6745 Paseo de Roxas cor. Villar Sts., Makatl City, Phillppinas\nMessage or Instructions to Beneficiary (eld 70)\nRef 1149970\nIn settlement, please exch @] oi\n[¢] debit my/our Account Na. BOTTBRAT9O a\n1) veaelve gheque No, *Terrorisl DB checked\n[ ) other (please specify) *With Fax Indemnity Y/N\n* For and on belalf of\nFIRST PAGIFIG COMPANY LIMI\nen op: Me\nSa aaa se C.)\nAulhorized Signature{s) with Company Chop\nTAFT -O6-U1\nBayt20Zz0\\FG0s039",
+    "processing_timestamp": "2025-08-08T13:51:51.348163"
+  },
+  {
+    "filename": "GUOCO 17JUL20 USD2,342,194.62.pdf",
+    "vendor_name": "Guoco Management Co Ltd",
+    "invoice_number": "65-6228",
+    "invoice_date": "17 Jul 2020",
+    "currency": "USD",
+    "line_items": [
+      {
+        "description": "Amount: USD",
+        "quantity": 1,
+        "unit_price": 2342194.62,
+        "amount": 2342194.62
+      }
+    ],
+    "grand_total": 2342194.62,
+    "raw_ocr_text": "17/07 2020 FRI 14:14 FAR 22853239 GMC WO01L/001\n~ pedis\n32 GuocoGroup\nA Member of the Hong Leong Group\nDate: 17 Jul 2020\nTo: Natixis, Singapore Branch\n5 Shenton Way\n#23-01 UIC Bullding\nSingapore 066808\nAttention: Ms Kim Mok - Remittance Dept\n(Fax no: 65 6227 8540, Tel no: 65-6228 5642)\nDear Sir / Madam,\nRe: Remittance\nPlease remit the amount through T/T with details as follows:\nBank Name: Citibank N.A., New York ~\nSWIFT: CITIUS33 “\nABA: 021000089 /\nAccount No: 30736764 /\nIn Favour Of: Goldman Sachs International, Londen ,\nBIC CODE: GSILGB2X ,\n: Beneficiary Name: Guoco Management Co Ltd\nBeneficiary Account No: 018-20731-6\nCountry of Beneficiary: Hong Kang\nMessage: By order of Guoco Management Co Lid\nDetails of charges: Our +\nAmount: USD2,342,194.62\nValue Date: 17-Jul-2020\nFor the above item(s), plaase debit our Current Account Number 2015850100,\nIf you have any query regarding the above, please contact our Mr. Willlam Ng / Ms. Michelle Chung / Ms. Venus\nChow at (852) 2283 8766 / 2283 8787 / 2283 8777.\nYours faithfully,\nFor and on behalf of\nGuoco Group Ltd.\nAuthorised Signature(s) &* jus RM/S8L/CC/JN/ THC / WN\n“ea\ni nN -\nCine ceae immed SUCRE RAR AL APOE HE\nIncorporated in Bermuda with limited liability | 50th Floor, The Center, 99 Queen's Road Central, Hong Kong Page 1 of 1\nWebsite: www.guaco.com TRE Tel: +852 2203 8833 (AML Fax: +852 2285 4233 N c",
+    "processing_timestamp": "2025-08-08T13:51:52.792704"
+  },
+  {
+    "filename": "OR - USD300,000.00.pdf",
+    "vendor_name": "Eygiandy And Aniggra\nShum Yip Nonfemet Hong Kong Ltd",
+    "invoice_number": "NFEMET",
+    "invoice_date": "2/9/2020",
+    "currency": "USD",
+    "line_items": [],
+    "grand_total": 0.0,
+    "raw_ocr_text": "08/08 202) TUB 19:53 FAX WoOoL/ O01\nTo: NATIXIS bate; 2/9/2020\nHong Kong Braneh\nREMITTANGE APPLICATION\nvt\nBeat Stra, , ———\nlate hereby requesd yau-to.eflecl thefollpwing remifience eubjaci to-the pendiions ovarlgel, to.which live have read, yndemibod and agrend,\n) Fernie: / Apbliesns (Field 6f9 ‘ Eygiandy and Aniggra\nSHUM YIP NONFEMET HONG KONG LTD\nBNP PARIBAS'NEW YORK. _ rt\n‘7. Addreea . ' ABA. Ha./ Switt Address\nBNPAUS3N\n. ,\n. BNP PARIBAS HONG KONG BRANCH\n. .| Sddreee of Beriafileng Pane . | Uitpoiia,./ Suati, eteieses\n. BNPAHKHH\n* |) ajoount Noverdenuilglery\n00001-601363-008-17-USD\n‘Nasna.gl Banalieleny (Piel FE) ,\nSHUM YIP NONFEMET HONG KONG LTD.\nAddress of Bangicteily .\nRM1809-12, TOWER 2, ADMIRALTY CENTRE, 18 HARCOURT RD, HK\nMessage erinatruotions to Barietictaby (Peta ZU}\nINTERNAL TRANSFER. : ;\nIn anilernenf bleed ne;\n[4] debil-tny/bor AnehDnt wo. ____ 2175842199 rare fo\n[] rerbive- OFS Ne yee rr et \"Terrorist DB checked\n{ ) othan (plekeé epemiy) \"Wilh FexIndemnily Y/N\nFor and on behalf of ; ;\nSHUM YIP NONFEMET HONG KONG LIMITED :\nes &, & A ag tk i #)\nAuthorident. Stgnatureta) ett ative Siena fT RRCCSEERIY) !\nRE-17-06-UI",
+    "processing_timestamp": "2025-08-08T13:51:54.375688"
+  }
+]

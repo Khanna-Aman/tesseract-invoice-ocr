@@ -1,0 +1,8 @@
+filename,line_number,description,quantity,unit_price,amount
+invoice_001.txt,1,Business Consulting Services,1,6000.0,6000.0
+invoice_002.txt,1,Laptop Computer - Dell XPS 13,2,1299.0,2598.0
+invoice_002.txt,2,Wireless Mouse,3,45.0,135.0
+invoice_002.txt,3,USB-C Hub,2,89.0,178.0
+invoice_003.txt,1,Strategic Planning Consultation,20,250.0,5000.0
+invoice_003.txt,2,Market Analysis Report,1,3500.0,3500.0
+invoice_003.txt,3,Implementation Support,15,200.0,3000.0

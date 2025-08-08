@@ -1,0 +1,22 @@
+# Core dependencies for invoice scanning utility (Python 3.9 as per assignment)
+numpy==1.24.3
+pandas==2.0.3
+
+# OCR and image processing - Tesseract OCR
+pytesseract>=0.3.10
+torch==2.4.0
+torchvision==0.19.0
+opencv-python==4.8.0.76
+Pillow==9.5.0
+
+# PDF processing
+PyMuPDF==1.23.0
+pdf2image==1.16.3
+
+# CLI and utilities
+click==8.1.7
+tqdm==4.66.1
+
+# Development and testing (optional)
+pytest==7.4.3
+black==23.12.1

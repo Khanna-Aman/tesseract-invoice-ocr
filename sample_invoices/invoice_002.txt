@@ -1,0 +1,25 @@
+TECH SUPPLIES INC
+789 Technology Drive
+San Francisco, CA 94105
+Email: sales@techsupplies.com
+
+INVOICE
+
+Invoice Number: TS-2024-0042
+Date: March 10, 2024
+Customer ID: CUST-5678
+
+Bill To:
+StartupXYZ Ltd
+321 Innovation Blvd
+Austin, TX 78701
+
+Item                          Qty    Unit Price    Amount
+Laptop Computer - Dell XPS 13  2     $1,299.00    $2,598.00
+Wireless Mouse                  3     $45.00       $135.00
+USB-C Hub                       2     $89.00       $178.00
+
+Subtotal: $2,911.00
+Shipping: $25.00
+Tax (7.25%): $211.05
+TOTAL: USD $3,147.05
