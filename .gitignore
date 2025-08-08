@@ -48,8 +48,10 @@ models/
 *.jpg
 *.jpeg
 
-# Exception: Keep flow diagram
+# Exceptions: Keep important files
 !docs/flow_diagram.png
+!Sample\ Documents/Sample\ Documents/*.pdf
+!sample_output/*.pdf
 
 # Output files (keep structure but ignore content)
 sample_output/*.csv
