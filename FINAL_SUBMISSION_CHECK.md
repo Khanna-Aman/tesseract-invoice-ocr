@@ -3,12 +3,12 @@
 ## **ASSIGNMENT COMPLIANCE - ALL REQUIREMENTS MET**
 
 ### Required Deliverables COMPLETE
-**scan2csv.py** - Main CLI script with required arguments (`--in_dir`, `--out_csv`, `--out_json`)
-**requirements.txt** - All dependencies listed (Python ≥3.9 compatible)
-**README.md** - Complete documentation with all required sections
-**docs/flow_diagram.png** - Visual flow diagram (ASCII + PNG versions)
-**Sample input scans + produced CSV/JSON** in `/sample_output`
-
+  **scan2csv.py** - Main CLI script with required arguments (`--in_dir`, `--out_csv`, `--out_json`)
+  **requirements.txt** - All dependencies listed (Python ≥3.9 compatible)
+  **README.md** - Complete documentation with all required sections
+  **docs/flow_diagram.png** - Visual flow diagram (ASCII + PNG versions)
+  **Sample input scans + produced CSV/JSON** in `/sample_output`
+  
 ### Core Functionality FULLY IMPLEMENTED
 **CLI Arguments**: `--in_dir`, `--out_csv`, `--out_json` implemented
 **OCR Processing**: Using **Tesseract OCR** (alternative to Dolphin as permitted)
